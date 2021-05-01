@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Xr/whvIfPSQaLHH5Bo7ncX5QIxKgxp+cvH7AbNNhrDM0EGtoIIaZuh42udSXKb1d4rxVXq+sOYuUgN/uJXKjAQ==",
+  "dgSpecHash": "akb+HcjU3zGp6Q3b9Ql+fGfuVFSRTQwJGTC/6Rwp1HhhyqMne8khzWWCT30NFkk4vlufk7Qqcozxu3Xy+c6YmQ==",
   "success": true,
   "projectFilePath": "C:\\projetos\\gametest\\backend\\gameapi\\gameapi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
   "logs": []
 }
